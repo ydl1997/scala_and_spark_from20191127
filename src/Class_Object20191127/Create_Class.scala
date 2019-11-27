@@ -1,4 +1,4 @@
-package Class_Object
+package Class_Object20191127
 
 import scala.io.StdIn
 
